@@ -26,12 +26,13 @@ Every great machine learning model starts with clean, reliable data! Here's how 
 ### 🔍 Milestone 2: Model Selection and Implementation
 After preparing the data, we dove into the world of algorithms. Here's what we did:
 
-🤖 Tried and Tested Algorithms:
-Logistic Regression
-Random Forest
-Decision Trees
-Support Vector Machines (SVM)
-XGBoost
-🏆 Final Model:
-After extensive experimentation, we chose XGBoost for its exceptional performance in accuracy and precision.
+**🤖 Tried and Tested Algorithms:**
+- Logistic Regression
+- Random Forest
+- Decision Trees
+- Support Vector Machines (SVM)
+- XGBoost
+  
+**🏆 Final Model:**
+After extensive experimentation, we chose **XGBoost** for its exceptional performance in accuracy and precision.
 Why XGBoost? It's fast, efficient, and excels at handling imbalanced datasets like ours.
