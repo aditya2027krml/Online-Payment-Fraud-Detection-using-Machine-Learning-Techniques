@@ -10,14 +10,19 @@ Milestone-Driven Development:
 ### 🛠 Milestone 1: Data Preprocessing
 Every great machine learning model starts with clean, reliable data! Here's how we prepared ours:
 
-🧹 Missing Values Handling: Replaced or removed missing values for consistent datasets.
-🧮 Feature Scaling: Standardized numerical features for improved model performance.
-🔎 Outlier Detection: Identified and mitigated outliers to enhance accuracy.
-🎨 Feature Engineering:
-Created meaningful features to enrich the dataset.
-Added time-based features like transaction hours for deeper insights.
-⚖️ Class Imbalance Handling:
-Applied SMOTE (Synthetic Minority Oversampling Technique) to balance the dataset, ensuring fairness in fraud detection.
+**🧹 Missing Values Handling:** Replaced or removed missing values for consistent datasets.
+
+**🧮 Feature Scaling:** Standardized numerical features for improved model performance.
+
+**🔎 Outlier Detection:** Identified and mitigated outliers to enhance accuracy.
+
+**🎨 Feature Engineering:**
+- Created meaningful features to enrich the dataset.
+- Added time-based features like transaction hours for deeper insights.
+  
+**⚖️ Class Imbalance Handling:**
+- Applied SMOTE (Synthetic Minority Oversampling Technique) to balance the dataset, ensuring fairness in fraud detection.
+  
 ### 🔍 Milestone 2: Model Selection and Implementation
 After preparing the data, we dove into the world of algorithms. Here's what we did:
 
