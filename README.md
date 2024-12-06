@@ -58,4 +58,28 @@ In bash
 
 2. Run the Home Page:
    
-- streamlit run 0_💰Home_page.py  
+- streamlit run 0_💰Home_page.py
+
+3. Explore All Pages: Use the navigation bar to switch between pages and enjoy an engaging experience.
+
+## 🧑‍💻 Key Techniques Used
+**1. Data Cleaning & Preprocessing**
+
+- Missing values handling, feature scaling, and SMOTE.
+
+**2.Feature Engineering**
+
+- Introduced time-based and domain-specific features.
+
+**3.Model Experimentation**
+
+- Evaluated multiple algorithms, ultimately selecting XGBoost.
+
+**4.Performance Evaluation**
+
+- Metrics like precision, recall, F1-score, and AUC were used to ensure accuracy.
+
+## 📬 Contact
+Feel free to reach out for queries, collaborations, or just to share your thoughts on the project!
+
+*🌟 This project is not just about detecting fraud; it's about making the online world safer, one transaction at a time.*
