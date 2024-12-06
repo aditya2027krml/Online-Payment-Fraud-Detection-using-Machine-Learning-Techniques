@@ -36,3 +36,26 @@ After preparing the data, we dove into the world of algorithms. Here's what we d
 **🏆 Final Model:**
 After extensive experimentation, we chose **XGBoost** for its exceptional performance in accuracy and precision.
 Why XGBoost? It's fast, efficient, and excels at handling imbalanced datasets like ours.
+
+## 🎥 Streamlit Web App 🎉
+We’ve created a user-friendly multi-page Streamlit app to make fraud detection accessible to everyone!
+
+### Pages Overview 🖱️
+
+- 🏠 Home Page: Your starting point for all features.
+- 🤔 Simple User Page: Intuitive prediction interface for individual transactions.
+- 📂 Batch Predict Page: Upload files for bulk fraud analysis.
+- 📜 Transaction History: Review past transactions and their predictions.
+- ℹ️ About App: Learn about the app and how it works.
+- 🔎 More About the Page App: Dive deeper into its workings and features.
+
+## 🏃 How to Run the App
+🖥️ Follow these steps to get started:
+In bash
+1. Install Streamlit:
+
+- pip install streamlit  
+
+2. Run the Home Page:
+   
+- streamlit run 0_💰Home_page.py  
